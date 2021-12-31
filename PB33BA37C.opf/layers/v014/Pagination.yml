@@ -1,0 +1,89 @@
+id: 5d1968b8883a4b9599eafbf0b71f570f
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  e26369c8c1bc40c4873be70e33455e23:
+    imgnum: 906
+    reference: ''
+    span:
+      start: 0
+      end: 712
+  499a4dc5dc0349cb9a24c9ddcb38d14d:
+    imgnum: 907
+    reference: ''
+    span:
+      start: 715
+      end: 2061
+  7e9e0c2a7d0b4a2f9b5afab860dbad46:
+    imgnum: 908
+    reference: ''
+    span:
+      start: 2064
+      end: 3398
+  91d87f0d43194f9296404f8012593b9c:
+    imgnum: 909
+    reference: ''
+    span:
+      start: 3401
+      end: 4884
+  637f05e3d7254edbbed43910be227da6:
+    imgnum: 910
+    reference: ''
+    span:
+      start: 4887
+      end: 6339
+  cf8c96c6a3044e0a9de66c0e7a18cc5c:
+    imgnum: 911
+    reference: ''
+    span:
+      start: 6342
+      end: 7794
+  5019afb740b845d2b567ff158e00becd:
+    imgnum: 912
+    reference: ''
+    span:
+      start: 7797
+      end: 9281
+  7b0d6fba0f8b47449bd2c94be9a6ab6b:
+    imgnum: 913
+    reference: ''
+    span:
+      start: 9284
+      end: 10690
+  2e011e58115e4ac9ba9bbd2a7fb3d182:
+    imgnum: 914
+    reference: ''
+    span:
+      start: 10693
+      end: 12085
+  8be9b7d4b7484e5baed9d57e956b8315:
+    imgnum: 915
+    reference: ''
+    span:
+      start: 12088
+      end: 13492
+  76132a1b118644409da1e702968d2a47:
+    imgnum: 916
+    reference: ''
+    span:
+      start: 13495
+      end: 15201
+  637a8720845f4de29929a6d665d63f6c:
+    imgnum: 917
+    reference: ''
+    span:
+      start: 15204
+      end: 15882
+local_ids:
+  e26369c8c1bc40c4873be70e33455e23: 200000
+  499a4dc5dc0349cb9a24c9ddcb38d14d: 200001
+  7e9e0c2a7d0b4a2f9b5afab860dbad46: 200002
+  91d87f0d43194f9296404f8012593b9c: 200003
+  637f05e3d7254edbbed43910be227da6: 200004
+  cf8c96c6a3044e0a9de66c0e7a18cc5c: 200005
+  5019afb740b845d2b567ff158e00becd: 200006
+  7b0d6fba0f8b47449bd2c94be9a6ab6b: 200007
+  2e011e58115e4ac9ba9bbd2a7fb3d182: 200008
+  8be9b7d4b7484e5baed9d57e956b8315: 200009
+  76132a1b118644409da1e702968d2a47: 200010
+  637a8720845f4de29929a6d665d63f6c: 200011
