@@ -21,70 +21,70 @@ annotations:
     reference: ''
     span:
       start: 2061
-      end: 3394
+      end: 3395
     note_ref: b0b5974d84a04a7fa621f584f06cbfdd
   a9e11e1c247746f38aababa4c2938106:
     imgnum: 909
     reference: ''
     span:
-      start: 3396
-      end: 4878
+      start: 3397
+      end: 4879
     note_ref: b0b5974d84a04a7fa621f584f06cbfdd
   da6805813ae740adb9a2a15b428a6744:
     imgnum: 910
     reference: ''
     span:
-      start: 4880
-      end: 6331
+      start: 4881
+      end: 6332
     note_ref: b0b5974d84a04a7fa621f584f06cbfdd
   1b8a4a7b77124da4949103fb7ae8414b:
     imgnum: 911
     reference: ''
     span:
-      start: 6333
-      end: 7784
+      start: 6334
+      end: 7785
     note_ref: b0b5974d84a04a7fa621f584f06cbfdd
   561e1d37eb1c4d71b18ec42a49a9c395:
     imgnum: 912
     reference: ''
     span:
-      start: 7786
-      end: 9269
+      start: 7787
+      end: 9270
     note_ref: b0b5974d84a04a7fa621f584f06cbfdd
   6ef8330635a349ac9d3619fb842ec152:
     imgnum: 913
     reference: ''
     span:
-      start: 9271
-      end: 10676
+      start: 9272
+      end: 10677
     note_ref: b0b5974d84a04a7fa621f584f06cbfdd
   c479e1ed929c4d2f86402c1d0ac1523b:
     imgnum: 914
     reference: ''
     span:
-      start: 10678
-      end: 12069
+      start: 10679
+      end: 12070
     note_ref: b0b5974d84a04a7fa621f584f06cbfdd
   b9ef9a886f7747889a94b9b0fd22f1cc:
     imgnum: 915
     reference: ''
     span:
-      start: 12071
-      end: 13474
+      start: 12072
+      end: 13475
     note_ref: b0b5974d84a04a7fa621f584f06cbfdd
   b0b5974d84a04a7fa621f584f06cbfdd:
     imgnum: 916
     reference: ''
     span:
-      start: 13476
-      end: 15218
+      start: 13477
+      end: 15219
     note_ref: e3b8645ea70949baaa1c8e5b7a5d200d
   e3b8645ea70949baaa1c8e5b7a5d200d:
     imgnum: 917
     reference: ''
     span:
-      start: 15220
-      end: 15890
+      start: 15221
+      end: 15891
 local_ids:
   280d2cc80b1446db9bcdc4711d6d77ff: 200000
   11ba3775596041efa53cc2b99d8170c0: 200001
